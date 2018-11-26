@@ -1,13 +1,17 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
-
 one:
-  longitude: 9.99
-  latitude: 9.99
-  sent_at: MyString
-  vehicle_identifier: MyString
+ longitude: -69.56
+ latitude: -33.23
+ sent_at: "2018-11-23 20:45:00"
+ vehicle_identifier: "LPA-076"
 
 two:
-  longitude: 9.99
-  latitude: 9.99
-  sent_at: MyString
-  vehicle_identifier: MyString
+ longitude: -70.56
+ latitude: -32.93
+ sent_at: "2018-11-23 22:45:00"
+ vehicle_identifier: "LPA-076"
+
+three:
+ latitude: -70.23
+ longitude: -31.55
+ sent_at: "2018-11-22 20:45:00"
+ vehicle_identifier: "NNM-524"
